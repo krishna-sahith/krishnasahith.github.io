@@ -59,3 +59,12 @@ i{
 {
     margin-left: 5%;
 }
+.custom-carousel {
+   height: 300px; /* Set your desired height */
+   overflow: hidden; /* Hide any overflow */
+}
+
+.custom-carousel-image {
+   height: 100%;
+   object-fit: cover; /* Ensure the image covers the area without distortion */
+}
